@@ -4,7 +4,6 @@
 ![Christmas Login](https://github.com/Nawid01/Christmas-Login/assets/146708733/734b156a-8dc9-4d33-ae48-c82bb9848065)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawid01&label=Profile%20views&color=0e75b6&style=flat" alt="nawid01" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
